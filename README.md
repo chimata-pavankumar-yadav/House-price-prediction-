@@ -1,4 +1,4 @@
-# House Price Prediction Project
+# User Guidence for House Price Prediction Project
 
 ## Overview
 This project aims to develop a machine learning model to accurately predict the median house price in California. The primary goal is to determine which features most significantly impact house prices. The dataset used in this project is sourced from Kaggle, and you can find it [here](https://www.kaggle.com/datasets/nazishjaveed/california-house-price-prediction).
